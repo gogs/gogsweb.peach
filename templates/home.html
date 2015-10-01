@@ -1,0 +1,125 @@
+{% extends "base.html" %}
+{% block title %}{{Tr(Lang, "name")}} - {{Tr(Lang, "tag_line")}}{% endblock %}
+{% block body %}
+  <div class="ui inverted vertical masthead center aligned segment">
+    {% include Page.NavbarTplPath %}
+
+    <div class="ui text container">
+      <img src="/img/favicon.ico" >
+      <h1 class="ui inverted header">
+        Gogs - Go Git Service
+      </h1>
+      <h2>{{Tr(Lang, "home.tag_line")}}</h2>
+      <a class="ui huge blue button" href="{{Page.DocsBaseURL}}/installation"><i class="download icon"></i> {{Tr(Lang, "navbar.download")}}</a>
+      <a class="ui huge violet button" href="https://try.gogs.io/">{{Tr(Lang, "home.try_demo")}} <i class="right arrow icon"></i></a>
+      <div id="github-stats">
+        <iframe src="http://ghbtns.com/github-btn.html?user=gogits&repo=gogs&type=watch&count=true" allowtransparency="true" frameborder="0" scrolling="0"></iframe>
+        <iframe src="http://ghbtns.com/github-btn.html?user=gogits&repo=gogs&type=fork&count=true" allowtransparency="true" frameborder="0" scrolling="0"></iframe>
+      </div>
+    </div>
+  </div>
+
+  <div class="ui vertical stripe segment">
+    <div class="ui aligned stackable four column grid container">
+      <div class="column">
+        <h3 class="ui header">
+        	<i class="magic icon"></i> {{Tr(Lang, "home.easy_install")}}
+        </h3>
+        <p>{{Tr(Lang, "home.easy_install_desc") | safe}}</p>
+      </div>
+      <div class="column">
+        <h3 class="ui header">
+        	<i class="laptop icon"></i> {{Tr(Lang, "home.cross_platform")}}
+        </h3>
+        <p>{{Tr(Lang, "home.cross_platform_desc") | safe}}</p>
+      </div>
+      <div class="column">
+        <h3 class="ui header">
+          <i class="send outline icon"></i> {{Tr(Lang, "home.lightweight")}}
+        </h3>
+        <p>{{Tr(Lang, "home.lightweight_desc") | safe}}</p>
+      </div>
+      <div class="column">
+        <h3 class="ui header">
+          <i class="code icon"></i> {{Tr(Lang, "home.opensource")}}
+        </h3>
+        <p>{{Tr(Lang, "home.opensource_desc") | safe}}</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="ui vertical stripe segment">
+    <div class="ui aligned stackable container">
+      <div class="row">
+        <div class="center aligned column">
+          <h1 class="ui header">
+            <div class="content">
+              {{Tr(Lang, "home.screenshoots")}}
+            </div>
+          </h1>
+          <p id="screenshoot-scroll">
+            <i class="angle double left icon"></i>
+            {{Tr(Lang, "home.scroll")}}
+            <i class="angle double right icon"></i>
+          </p>
+
+          <section class="carousel">
+            <div class="images">
+              <img src="/img/screenshoots/1.png">
+              <img src="/img/screenshoots/2.png">
+              <img src="/img/screenshoots/3.png">
+              <img src="/img/screenshoots/4.png">
+              <img src="/img/screenshoots/5.png">
+              <img src="/img/screenshoots/6.png">
+              <img src="/img/screenshoots/7.png">
+              <img src="/img/screenshoots/8.png">
+              <img src="/img/screenshoots/9.png">
+            </div>
+          </section>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="ui vertical stripe segment">
+    <div class="ui aligned stackable container">
+      <div class="row">
+        <div class="center aligned column">
+          <h1 class="ui header">
+            <div class="content">
+              {{Tr(Lang, "home.who_is_using")}}
+            </div>
+          </h1>
+          <div id="clientele">
+            <a target="_blank" href="http://cnssuestc.org/">
+              <img src="/img/brands/cnssuestc.jpg">
+            </a>
+            <a  target="_blank"href="http://www.gxbolian.com.cn/">
+              <img src="/img/brands/gxbolian.jpg">
+            </a>
+            <a target="_blank" href="http://www.prosnav.com/Default.aspx">
+              <img src="/img/brands/prosnav.jpg">
+            </a>
+            <a target="_blank" href="http://www.igt.com/">
+              <img src="/img/brands/igt.png">
+            </a>
+            <a target="_blank" href="http://xizhe.it/">
+              <img src="/img/brands/xizhe.png">
+            </a>
+            <a target="_blank" href="https://notabug.org/">
+              <img src="/img/brands/notabug.png">
+            </a>
+            <a target="_blank" href="http://www.yeeuu.com/">
+              <img src="/img/brands/yeeuu.png">
+            </a>
+            <a target="_blank" href="http://www.tripleback.net/">
+              <img src="/img/brands/tripleback.png">
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  {% include Page.FooterTplPath %}
+{% endblock %}
