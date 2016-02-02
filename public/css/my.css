@@ -1,5 +1,6 @@
 .ui.inverted.segment {
 	background: #55acee;
+    background: -webkit-linear-gradient(top, #0F8DEC, #55acee);
 }
 #github-stats iframe {
 	width: 100px;
