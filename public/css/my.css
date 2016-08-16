@@ -51,3 +51,89 @@
 .footer a:hover {
 	color: #1F1E1E;
 }
+
+.masthead .ui.text.container {
+    padding-bottom: 2em;
+}
+.masthead .ui.carbonads.container {
+    margin-top: 20px;
+    width: 330px !important;
+}
+.masthead #carbonads {
+    font-size: 12.5px;
+    border: solid white !important;
+    border-radius: 4px;
+    border-width: 1px !important;
+    display: block;
+    overflow: hidden;
+    padding: 1em;
+    font-family: Verdana, "Helvetica Neue", Helvetica, sans-serif;
+    line-height: 1.5;
+}
+.masthead #carbonads span {
+    position: relative;
+    display: block;
+    overflow: hidden;
+}
+.masthead .carbon-img {
+    float: left;
+    margin-right: 1em;
+}
+.masthead .carbon-img img { display: block; }
+.masthead .carbon-text {
+    display: block;
+    float: left;
+    max-width: calc(100% - 130px - 1em);
+    text-align: left;
+    color: #e6f3fc;
+}
+.masthead .carbon-text:hover {
+    color: white;
+}
+.masthead .carbon-poweredby {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    display: block;
+    font-size: .8em;
+    color: #e6f3fc;
+}
+.masthead .carbon-poweredby:hover {
+    color: white;
+}
+
+.documentation #carbonads {
+    display: block;
+    overflow: hidden;
+    padding: 1em;
+    font-family: Verdana, "Helvetica Neue", Helvetica, sans-serif;
+    line-height: 1.5;
+}
+.documentation #carbonads span {
+    display: block;
+    overflow: hidden;
+}
+.documentation .carbon-img {
+    display: block;
+    margin: 0 auto 5px;
+    text-align: center;
+}
+.documentation .carbon-text {
+    font-size: 13px;
+    display: block;
+    margin-bottom: 5px;
+    text-align: left;
+    color: rgba(0,0,0,.5);
+}
+.documentation .carbon-text:hover {
+    color: rgba(0,0,0,.85);
+}
+.documentation .carbon-poweredby {
+    display: block;
+    text-align: right;
+    font-size: .8em;
+    color: rgba(0,0,0,.5);
+}
+.documentation .carbon-poweredby:hover {
+    color: rgba(0,0,0,.85);
+}
