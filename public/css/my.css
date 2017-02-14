@@ -137,3 +137,7 @@
 .documentation .carbon-poweredby:hover {
     color: rgba(0,0,0,.85);
 }
+
+.markdown :not(pre) > code {
+    color: #E91E63;
+}
