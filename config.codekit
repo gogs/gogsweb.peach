@@ -66,6 +66,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/public\/img\/brands\/liepin.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2707,
+		"inputAbbreviatedPath": "\/public\/img\/brands\/liepin.png",
+		"outputAbbreviatedPath": "\/public\/img\/brands\/liepin.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/public\/img\/brands\/netease_game.png": {
 		"fileType": 32768,
 		"ignore": 0,
