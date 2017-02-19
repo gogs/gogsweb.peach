@@ -11,12 +11,10 @@
         Gogs
       </h1>
       <h2>{{Tr(Lang, "home.tag_line")}}</h2>
-      <a class="ui huge blue button" href="{{Page.DocsBaseURL}}/installation"><i class="cubes icon"></i> {{Tr(Lang, "home.install")}}</a>
-      <a class="ui huge violet button" href="https://try.gogs.io/">{{Tr(Lang, "home.try_demo")}} <i class="right arrow icon"></i></a>
-      <div id="github-stats">
-        <iframe src="https://ghbtns.com/github-btn.html?user=gogits&repo=gogs&type=watch&count=true" allowtransparency="true" frameborder="0" scrolling="0"></iframe>
-        <iframe src="https://ghbtns.com/github-btn.html?user=gogits&repo=gogs&type=fork&count=true" allowtransparency="true" frameborder="0" scrolling="0"></iframe>
-      </div>
+      <a class="ui huge inverted basic button" href="{{Page.DocsBaseURL}}/installation"><i class="cubes icon"></i> {{Tr(Lang, "home.install")}}</a>
+      <a class="ui huge inverted basic button" href="https://try.gogs.io/">{{Tr(Lang, "home.try_demo")}} <i class="right arrow icon"></i></a>
+      <br>
+      <br>
 
       <div class="ui carbonads container">
         <script async type="text/javascript" src="//cdn.carbonads.com/carbon.js?zoneid=1673&serve=C6AILKT&placement=gogsio" id="_carbonads_js"></script>
@@ -25,7 +23,7 @@
   </div>
 
   <div class="ui vertical stripe segment">
-    <div class="ui aligned stackable four column grid container">
+    <div class="ui aligned stackable three column grid container">
       <div class="column">
         <h3 class="ui header">
         	<i class="magic icon"></i> {{Tr(Lang, "home.easy_install")}}
@@ -44,11 +42,16 @@
         </h3>
         <p>{{Tr(Lang, "home.lightweight_desc") | safe}}</p>
       </div>
-      <div class="column">
-        <h3 class="ui header">
-          <i class="code icon"></i> {{Tr(Lang, "home.opensource")}}
-        </h3>
-        <p>{{Tr(Lang, "home.opensource_desc") | safe}}</p>
+    </div>
+  </div>
+
+  <div class="ui vertical stripe segment">
+    <div class="ui aligned stackable four column grid container">
+      <div class="seven wide column center" style="margin: auto">
+        <h1><i class="icon github"></i> {{Tr(Lang, "home.open_source")}}</h1>
+        <p>{{Tr(Lang, "home.open_source_desc", "https://github.com/gogits/gogs/blob/master/LICENSE", "https://github.com/gogits/gogs") | safe}}</p>
+        <br>
+        <iframe src="https://ghbtns.com/github-btn.html?user=gogits&repo=gogs&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
       </div>
     </div>
   </div>
