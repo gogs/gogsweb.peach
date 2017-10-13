@@ -13,6 +13,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/brands\/codegit.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 22614,
+		"inputAbbreviatedPath": "\/brands\/codegit.png",
+		"outputAbbreviatedPath": "\/brands\/codegit.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/brands\/codemen.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -20,6 +31,17 @@
 		"initialSize": 2853,
 		"inputAbbreviatedPath": "\/brands\/codemen.png",
 		"outputAbbreviatedPath": "\/brands\/codemen.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/brands\/coelis.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 31179,
+		"inputAbbreviatedPath": "\/brands\/coelis.png",
+		"outputAbbreviatedPath": "\/brands\/coelis.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -42,6 +64,17 @@
 		"initialSize": 16298,
 		"inputAbbreviatedPath": "\/brands\/igt.png",
 		"outputAbbreviatedPath": "\/brands\/igt.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/brands\/jutons.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 36433,
+		"inputAbbreviatedPath": "\/brands\/jutons.png",
+		"outputAbbreviatedPath": "\/brands\/jutons.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -134,6 +167,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/brands\/proginn.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1517,
+		"inputAbbreviatedPath": "\/brands\/proginn.png",
+		"outputAbbreviatedPath": "\/brands\/proginn.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/brands\/unfoldingword.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -141,6 +185,28 @@
 		"initialSize": 114398,
 		"inputAbbreviatedPath": "\/brands\/unfoldingword.png",
 		"outputAbbreviatedPath": "\/brands\/unfoldingword.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/brands\/unixcorn.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 24866,
+		"inputAbbreviatedPath": "\/brands\/unixcorn.png",
+		"outputAbbreviatedPath": "\/brands\/unixcorn.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/brands\/uofmississippi.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 85451,
+		"inputAbbreviatedPath": "\/brands\/uofmississippi.png",
+		"outputAbbreviatedPath": "\/brands\/uofmississippi.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
