@@ -22,6 +22,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/public\/img\/brands\/adornis.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5554,
+		"inputAbbreviatedPath": "\/public\/img\/brands\/adornis.png",
+		"outputAbbreviatedPath": "\/public\/img\/brands\/adornis.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/public\/img\/brands\/codegit.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20715,
+		"inputAbbreviatedPath": "\/public\/img\/brands\/codegit.png",
+		"outputAbbreviatedPath": "\/public\/img\/brands\/codegit.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
 	"\/public\/img\/brands\/codemen.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -31,7 +53,18 @@
 		"outputAbbreviatedPath": "\/public\/img\/brands\/codemen.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
+		},
+	"\/public\/img\/brands\/coelis.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23668,
+		"inputAbbreviatedPath": "\/public\/img\/brands\/coelis.png",
+		"outputAbbreviatedPath": "\/public\/img\/brands\/coelis.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
 		},
 	"\/public\/img\/brands\/cubekode.png": {
 		"fileType": 32768,
@@ -42,7 +75,29 @@
 		"outputAbbreviatedPath": "\/public\/img\/brands\/cubekode.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
+		},
+	"\/public\/img\/brands\/fxft.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 30649,
+		"inputAbbreviatedPath": "\/public\/img\/brands\/fxft.jpg",
+		"outputAbbreviatedPath": "\/public\/img\/brands\/fxft.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/public\/img\/brands\/global_access.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3213,
+		"inputAbbreviatedPath": "\/public\/img\/brands\/global_access.png",
+		"outputAbbreviatedPath": "\/public\/img\/brands\/global_access.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
 		},
 	"\/public\/img\/brands\/igt.png": {
 		"fileType": 32768,
@@ -53,7 +108,29 @@
 		"outputAbbreviatedPath": "\/public\/img\/brands\/igt.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
+		},
+	"\/public\/img\/brands\/jutons.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 35382,
+		"inputAbbreviatedPath": "\/public\/img\/brands\/jutons.png",
+		"outputAbbreviatedPath": "\/public\/img\/brands\/jutons.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/public\/img\/brands\/keenton.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4357,
+		"inputAbbreviatedPath": "\/public\/img\/brands\/keenton.png",
+		"outputAbbreviatedPath": "\/public\/img\/brands\/keenton.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
 		},
 	"\/public\/img\/brands\/lfirs.png": {
 		"fileType": 32768,
@@ -64,7 +141,7 @@
 		"outputAbbreviatedPath": "\/public\/img\/brands\/lfirs.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/public\/img\/brands\/liepin.png": {
 		"fileType": 32768,
@@ -75,7 +152,18 @@
 		"outputAbbreviatedPath": "\/public\/img\/brands\/liepin.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
+		},
+	"\/public\/img\/brands\/loadingplay.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13094,
+		"inputAbbreviatedPath": "\/public\/img\/brands\/loadingplay.png",
+		"outputAbbreviatedPath": "\/public\/img\/brands\/loadingplay.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
 		},
 	"\/public\/img\/brands\/netease_game.png": {
 		"fileType": 32768,
@@ -86,7 +174,7 @@
 		"outputAbbreviatedPath": "\/public\/img\/brands\/netease_game.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/public\/img\/brands\/notabug.png": {
 		"fileType": 32768,
@@ -97,7 +185,7 @@
 		"outputAbbreviatedPath": "\/public\/img\/brands\/notabug.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/public\/img\/brands\/onespace.jpg": {
 		"fileType": 16384,
@@ -108,7 +196,7 @@
 		"outputAbbreviatedPath": "\/public\/img\/brands\/onespace.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/public\/img\/brands\/osinet.png": {
 		"fileType": 32768,
@@ -119,7 +207,51 @@
 		"outputAbbreviatedPath": "\/public\/img\/brands\/osinet.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
+		},
+	"\/public\/img\/brands\/proginn.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1354,
+		"inputAbbreviatedPath": "\/public\/img\/brands\/proginn.png",
+		"outputAbbreviatedPath": "\/public\/img\/brands\/proginn.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/public\/img\/brands\/sapian.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10694,
+		"inputAbbreviatedPath": "\/public\/img\/brands\/sapian.png",
+		"outputAbbreviatedPath": "\/public\/img\/brands\/sapian.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/public\/img\/brands\/steelants.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 243344,
+		"inputAbbreviatedPath": "\/public\/img\/brands\/steelants.png",
+		"outputAbbreviatedPath": "\/public\/img\/brands\/steelants.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/public\/img\/brands\/sunnyvale.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 47587,
+		"inputAbbreviatedPath": "\/public\/img\/brands\/sunnyvale.jpg",
+		"outputAbbreviatedPath": "\/public\/img\/brands\/sunnyvale.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
 		},
 	"\/public\/img\/brands\/unfoldingword.png": {
 		"fileType": 32768,
@@ -130,7 +262,29 @@
 		"outputAbbreviatedPath": "\/public\/img\/brands\/unfoldingword.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
+		},
+	"\/public\/img\/brands\/unixcorn.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21789,
+		"inputAbbreviatedPath": "\/public\/img\/brands\/unixcorn.png",
+		"outputAbbreviatedPath": "\/public\/img\/brands\/unixcorn.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/public\/img\/brands\/uofmississippi.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 55844,
+		"inputAbbreviatedPath": "\/public\/img\/brands\/uofmississippi.png",
+		"outputAbbreviatedPath": "\/public\/img\/brands\/uofmississippi.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
 		},
 	"\/public\/img\/brands\/weimaitong.jpg": {
 		"fileType": 16384,
@@ -141,7 +295,7 @@
 		"outputAbbreviatedPath": "\/public\/img\/brands\/weimaitong.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/public\/img\/brands\/yeeuu.png": {
 		"fileType": 32768,
@@ -152,7 +306,7 @@
 		"outputAbbreviatedPath": "\/public\/img\/brands\/yeeuu.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/public\/img\/gogs-d-logo-sketch.png": {
 		"fileType": 32768,
