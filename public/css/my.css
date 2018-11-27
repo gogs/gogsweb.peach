@@ -54,6 +54,10 @@
 .footer a:hover {
 	color: #fff;
 }
+.footer.home {
+    background-color: #352e2e;
+    background-image: none;
+}
 
 .masthead .ui.text.container {
     padding-bottom: 2em;

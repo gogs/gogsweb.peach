@@ -13,6 +13,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/brands\/adornis.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5554,
+		"inputAbbreviatedPath": "\/brands\/adornis.png",
+		"outputAbbreviatedPath": "\/brands\/adornis.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/brands\/codegit.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -53,6 +64,28 @@
 		"initialSize": 5980,
 		"inputAbbreviatedPath": "\/brands\/cubekode.png",
 		"outputAbbreviatedPath": "\/brands\/cubekode.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/brands\/fxft.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 30649,
+		"inputAbbreviatedPath": "\/brands\/fxft.jpg",
+		"outputAbbreviatedPath": "\/brands\/fxft.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/brands\/global_access.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3213,
+		"inputAbbreviatedPath": "\/brands\/global_access.png",
+		"outputAbbreviatedPath": "\/brands\/global_access.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -174,6 +207,17 @@
 		"initialSize": 1517,
 		"inputAbbreviatedPath": "\/brands\/proginn.png",
 		"outputAbbreviatedPath": "\/brands\/proginn.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/brands\/sunnyvale.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 277092,
+		"inputAbbreviatedPath": "\/brands\/sunnyvale.jpg",
+		"outputAbbreviatedPath": "\/brands\/sunnyvale.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
