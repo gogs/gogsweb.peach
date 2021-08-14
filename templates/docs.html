@@ -7,7 +7,11 @@
 	<div class="ui grid documentation container">
 		<div class="four wide column">
 			<div class="ui vertical menu">
-				<script async type="text/javascript" src="//cdn.carbonads.com/carbon.js?serve=CKYILK3U&placement=gogsio" id="_carbonads_js"></script>
+				{% if Lang == "zh-CN" %}
+					<div class="wwads-cn wwads-horizontal" data-id="97" style="max-width:350px"></div>
+				{% else %}
+					<script async type="text/javascript" src="//cdn.carbonads.com/carbon.js?serve=CKYILK3U&placement=gogsio" id="_carbonads_js"></script>
+				{% endif %}
 				{% if Toc %}
 					{% for node in Toc.Nodes %}
 				  <div class="item">
